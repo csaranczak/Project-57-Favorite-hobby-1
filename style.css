@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+#image1{
+    width: 300px;
+    height: 400px;
+    border-radius: 500px;
+}
+#Welcome{
+    color: chartreuse;
+    width: 800px;
+    background: linear-gradient(#a83232 0%, #32a887 100%);
+    top;50px;
+    bottom;40px;
+    left;200px;
+    right;20px;
+    opacity: 0.83;
+display: table;
+text-align: center
+overflow: visible;
+
+}
+p{text-align: justify;
+line-height: 1.8;
+    color: darkblue;
+    
+}
+#line{
+    background-color: black;
+    height: 3px;
+    width: 50px;
+    margin: auto;
+}
+#about{
+    background:linear-gradient(#5aa832 0%, #5aa832 100%);
+    
+}
